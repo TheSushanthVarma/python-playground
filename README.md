@@ -1,2 +1,2 @@
 # python-playground
-random and cool python code
+Random and cool python code!
