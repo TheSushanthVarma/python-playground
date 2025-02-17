@@ -1,0 +1,54 @@
+{"time": "2025-02-17 09:16:40,383", "level": "INFO", "message": "This log is in JSON format", "name": "json_logger"}
+{"time": "2025-02-17 09:18:10,599", "level": "INFO", "message": "This log is in JSON format", "name": "json_logger"}
+{"time": "2025-02-17 09:18:10,599", "level": "DEBUG", "message": "This is a debug message", "name": "json_logger"}
+{"time": "2025-02-17 09:18:10,599", "level": "WARNING", "message": "This is a warning message", "name": "json_logger"}
+{"time": "2025-02-17 09:18:10,599", "level": "ERROR", "message": "This is an error message", "name": "json_logger"}
+{"time": "2025-02-17 09:18:10,599", "level": "CRITICAL", "message": "This is a critical message", "name": "json_logger"}
+{"time": "2025-02-17 09:35:36,958", "level": "INFO", "message": "This log is in JSON format", "name": "json_logger"}
+{"time": "2025-02-17 09:35:36,959", "level": "DEBUG", "message": "This is a debug message", "name": "json_logger"}
+{"time": "2025-02-17 09:35:36,960", "level": "WARNING", "message": "This is a warning message", "name": "json_logger"}
+{"time": "2025-02-17 09:35:36,960", "level": "ERROR", "message": "This is an error message", "name": "json_logger"}
+{"time": "2025-02-17 09:35:36,960", "level": "CRITICAL", "message": "This is a critical message", "name": "json_logger"}
+{"time": "2025-02-17 09:35:37,255", "level": "INFO", "message": "This log is in JSON format", "name": "json_logger"}
+{"time": "2025-02-17 09:35:37,255", "level": "DEBUG", "message": "This is a debug message", "name": "json_logger"}
+{"time": "2025-02-17 09:35:37,256", "level": "WARNING", "message": "This is a warning message", "name": "json_logger"}
+{"time": "2025-02-17 09:35:37,256", "level": "ERROR", "message": "This is an error message", "name": "json_logger"}
+{"time": "2025-02-17 09:35:37,256", "level": "CRITICAL", "message": "This is a critical message", "name": "json_logger"}
+{"time": "2025-02-17 09:35:39,146", "level": "INFO", "message": "Request received", "name": "json_logger"}
+{"time": "2025-02-17 09:35:43,035", "level": "INFO", "message": "Request received", "name": "json_logger"}
+{"time": "2025-02-17 09:35:47,237", "level": "INFO", "message": "Request received", "name": "json_logger"}
+{"time": "2025-02-17 09:35:58,964", "level": "INFO", "message": "This log is in JSON format", "name": "json_logger"}
+{"time": "2025-02-17 09:35:58,964", "level": "DEBUG", "message": "This is a debug message", "name": "json_logger"}
+{"time": "2025-02-17 09:35:58,964", "level": "WARNING", "message": "This is a warning message", "name": "json_logger"}
+{"time": "2025-02-17 09:35:58,964", "level": "ERROR", "message": "This is an error message", "name": "json_logger"}
+{"time": "2025-02-17 09:35:58,964", "level": "CRITICAL", "message": "This is a critical message", "name": "json_logger"}
+{"time": "2025-02-17 09:36:03,376", "level": "INFO", "message": "This log is in JSON format", "name": "json_logger"}
+{"time": "2025-02-17 09:36:03,376", "level": "DEBUG", "message": "This is a debug message", "name": "json_logger"}
+{"time": "2025-02-17 09:36:03,376", "level": "WARNING", "message": "This is a warning message", "name": "json_logger"}
+{"time": "2025-02-17 09:36:03,376", "level": "ERROR", "message": "This is an error message", "name": "json_logger"}
+{"time": "2025-02-17 09:36:03,376", "level": "CRITICAL", "message": "This is a critical message", "name": "json_logger"}
+{"time": "2025-02-17 09:36:08,807", "level": "INFO", "message": "This log is in JSON format", "name": "json_logger"}
+{"time": "2025-02-17 09:36:08,807", "level": "DEBUG", "message": "This is a debug message", "name": "json_logger"}
+{"time": "2025-02-17 09:36:08,807", "level": "WARNING", "message": "This is a warning message", "name": "json_logger"}
+{"time": "2025-02-17 09:36:08,807", "level": "ERROR", "message": "This is an error message", "name": "json_logger"}
+{"time": "2025-02-17 09:36:08,807", "level": "CRITICAL", "message": "This is a critical message", "name": "json_logger"}
+{"time": "2025-02-17 09:36:27,084", "level": "INFO", "message": "This log is in JSON format", "name": "json_logger"}
+{"time": "2025-02-17 09:36:27,084", "level": "DEBUG", "message": "This is a debug message", "name": "json_logger"}
+{"time": "2025-02-17 09:36:27,084", "level": "WARNING", "message": "This is a warning message", "name": "json_logger"}
+{"time": "2025-02-17 09:36:27,084", "level": "ERROR", "message": "This is an error message", "name": "json_logger"}
+{"time": "2025-02-17 09:36:27,084", "level": "CRITICAL", "message": "This is a critical message", "name": "json_logger"}
+{"time": "2025-02-17 09:36:43,386", "level": "INFO", "message": "This log is in JSON format", "name": "json_logger"}
+{"time": "2025-02-17 09:36:43,386", "level": "DEBUG", "message": "This is a debug message", "name": "json_logger"}
+{"time": "2025-02-17 09:36:43,386", "level": "WARNING", "message": "This is a warning message", "name": "json_logger"}
+{"time": "2025-02-17 09:36:43,386", "level": "ERROR", "message": "This is an error message", "name": "json_logger"}
+{"time": "2025-02-17 09:36:43,386", "level": "CRITICAL", "message": "This is a critical message", "name": "json_logger"}
+{"time": "2025-02-17 09:36:51,259", "level": "INFO", "message": "This log is in JSON format", "name": "json_logger"}
+{"time": "2025-02-17 09:36:51,259", "level": "DEBUG", "message": "This is a debug message", "name": "json_logger"}
+{"time": "2025-02-17 09:36:51,259", "level": "WARNING", "message": "This is a warning message", "name": "json_logger"}
+{"time": "2025-02-17 09:36:51,259", "level": "ERROR", "message": "This is an error message", "name": "json_logger"}
+{"time": "2025-02-17 09:36:51,259", "level": "CRITICAL", "message": "This is a critical message", "name": "json_logger"}
+{"time": "2025-02-17 09:37:51,714", "level": "INFO", "message": "This log is in JSON format", "name": "json_logger"}
+{"time": "2025-02-17 09:37:51,714", "level": "DEBUG", "message": "This is a debug message", "name": "json_logger"}
+{"time": "2025-02-17 09:37:51,714", "level": "WARNING", "message": "This is a warning message", "name": "json_logger"}
+{"time": "2025-02-17 09:37:51,714", "level": "ERROR", "message": "This is an error message", "name": "json_logger"}
+{"time": "2025-02-17 09:37:51,714", "level": "CRITICAL", "message": "This is a critical message", "name": "json_logger"}
